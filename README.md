@@ -32,7 +32,8 @@ make data-driven decisions related to pricing, occupancy, and customer loyalty.
 - CSV / Excel Dataset
 
 ## 📷 Dashboard Preview
-
+### Overall Dashboard
+![Dashboard Overview](dashboardoverview.png)
 
 
 ### KPI Summary
