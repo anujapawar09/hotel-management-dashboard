@@ -34,7 +34,7 @@ make data-driven decisions related to pricing, occupancy, and customer loyalty.
 ## 📷 Dashboard Preview
 
 ### Overall Dashboard
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](dashboardoverview.png)
 
 ### KPI Summary
 ![KPI Summary](kpi_summary.png)
