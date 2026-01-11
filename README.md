@@ -32,7 +32,19 @@ make data-driven decisions related to pricing, occupancy, and customer loyalty.
 - CSV / Excel Dataset
 
 ## 📷 Dashboard Preview
-(Add dashboard screenshots here)
+
+### Overall Dashboard
+![Dashboard Overview](dashboard_overview.png)
+
+### KPI Summary
+![KPI Summary](kpi_summary.png)
+
+### Customer Behavior
+![Customer Behavior](customer_behavior.png)
+
+### Booking Channel vs Loyalty
+![Booking Channel](booking_channel_vs_loyalty.png)
+
 
 ## ✅ Conclusion
 This dashboard provides actionable insights into hotel performance and
