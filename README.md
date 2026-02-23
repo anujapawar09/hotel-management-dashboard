@@ -1,16 +1,28 @@
-# Hotel Management Dashboard | Power BI
+# Hotel Booking Analysis & Dashboard | Python + Power BI
 
-## 📌 Project Overview
-This Power BI dashboard analyzes hotel booking data to track bookings,
-revenue, cancellations, and customer behavior. It helps hotel management
-make data-driven decisions related to pricing, occupancy, and customer loyalty.
+Exploratory Data Analysis (Python)
+Before building the dashboard, exploratory data analysis (EDA) was performed using Python to understand booking patterns and clean the dataset.
 
-## 📊 Key KPIs
-- Total Bookings
-- Cancellation Percentage
-- Total Revenue
-- Total Room Nights
-- Average Daily Rate (ADR)
+EDA Activities:
+
+- Checked and handled missing values
+- Removed duplicate records
+- Analyzed cancellation trends
+- Studied seasonal booking patterns
+- Examined customer types and lead time behavior
+- Visualized trends using Matplotlib and Seaborn
+- This helped identify key metrics and insights that were later implemented in the Power BI dashboard.
+
+## 🛠 Tools Used
+- Python (Pandas, Matplotlib, Seaborn)
+- Power BI
+- DAX
+- Power Query
+- CSV / Excel Dataset
+
+###  EDA Notebook
+[View Python EDA Notebook](eda/hotel_eda.ipynb)
+
 
 ## 📈 Dashboard Explanation
 - Displays daily booking trends to understand demand patterns
@@ -19,33 +31,13 @@ make data-driven decisions related to pricing, occupancy, and customer loyalty.
 - Segments customers based on loyalty levels
 - Evaluates booking performance across different channels
 
-## ⚙️ Challenges Faced
-- Cleaning raw booking data with missing and inconsistent values
-- Creating accurate DAX measures for KPIs and calculations
-- Designing a clear and user-friendly dashboard layout
-- Managing multiple filters and slicers efficiently
-
-## 🛠 Tools Used
-- Power BI
-- DAX
-- Power Query
-- CSV / Excel Dataset
-
-## 📷 Dashboard Preview
-### Overall Dashboard
-![Dashboard Overview](dashboardoverview.png)
-
-
-### KPI Summary
-![KPI Summary](kpi_summary.png)
-
-### Customer Behavior
-![Customer Behavior](customer_behavior.png)
-
-### Booking Channel vs Loyalty
-![Booking Channel](booking_channel_vs_loyalty.png)
-
+- ## 📊 Key KPIs
+- Total Bookings
+- Cancellation Percentage
+- Total Revenue
+- Total Room Nights
+- Average Daily Rate (ADR)
 
 ## ✅ Conclusion
-This dashboard provides actionable insights into hotel performance and
-customer behavior, supporting better business and operational decisions.
+This project demonstrates an end-to-end analytics workflow, from data cleaning and exploratory analysis in Python to building a business-ready Power BI dashboard. 
+The insights generated help hotel management understand booking behavior, revenue trends, and cancellation patterns, supporting smarter operational and pricing decisions.
